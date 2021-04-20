@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.registration{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.registration input{
+  width: 300px;
+  height: 60px;
+  margin:10px;
+}
+
+.Login{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.Login input{
+  width: 300px;
+  height: 60px;
+  margin:10px;
+}
